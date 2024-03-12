@@ -1,4 +1,6 @@
 Grocery store management developed using Python and MYSQL
+
+
 It is a three tier application :
 Frontend is created using HTML/CSS, Bootstrap, Javascript
 Backend: Python and flask
