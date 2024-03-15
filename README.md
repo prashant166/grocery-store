@@ -17,4 +17,9 @@ Key Features:
 4. **Customer Interaction:** The system facilitates customer management, allowing for the recording of customer details, preferences, and purchase history, enabling personalized service and targeted marketing.
 5. **Reporting and Analytics:** The project includes reporting and analytical tools to generate insights into sales trends, popular products, and inventory turnover, aiding in decision-making and strategic planning.
 
+
+
+![Screenshot (54)](https://github.com/prashant166/grocery-store/assets/94380684/60c4dc68-2a7f-4eab-ab14-c8533d69b9e2)
+
+
 With its intuitive interface and robust backend architecture, the Grocery Store Management project offers an efficient solution for grocery store owners to optimize their operations, improve customer satisfaction, and drive business growth.
