@@ -19,7 +19,8 @@ Key Features:
 
 
 
-![Screenshot (54)](https://github.com/prashant166/grocery-store/assets/94380684/60c4dc68-2a7f-4eab-ab14-c8533d69b9e2)
+![Screenshot (54)](https://github.com/prashant166/grocery-store/assets/94380684/9c70549b-6535-4a4a-83b5-7d0336465fa3)
+
 
 
 With its intuitive interface and robust backend architecture, the Grocery Store Management project offers an efficient solution for grocery store owners to optimize their operations, improve customer satisfaction, and drive business growth.
